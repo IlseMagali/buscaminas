@@ -1,0 +1,25 @@
+table {
+  width: auto;
+  height: auto;
+}
+
+tr {
+  width: 160px;
+  height: 40px;
+}
+
+td {
+  width: 40px;
+  height: 40px;
+}
+
+button {
+  width: 40px;
+  height: 40px;
+  background-color: grey;
+}
+
+body {
+  align-self: center;
+  background-color: grey;
+}
